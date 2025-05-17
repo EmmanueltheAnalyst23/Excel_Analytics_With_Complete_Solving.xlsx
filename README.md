@@ -1,20 +1,15 @@
 E-Commerce Sales Analysis
-This project demonstrates my ability to analyze business data using Excel and SQL. It covers key performance metrics such as revenue, profit, and margins, while also showcasing how SQL can be used to structure and manage related datasets.
+
+This project highlights my ability to analyze business data using both Excel and SQL. It focuses on key performance metrics like revenue, profit, and margins, and demonstrates how SQL can be used to structure and manage related datasets behind the scenes.
 
 Excel Analysis:
-
-Cleaned and structured raw sales data
-
-Used formulas such as IF, SUMIFS, and VLOOKUP to calculate key financial indicators
-
-Answered specific business questions using logic-based Excel modeling
+	•	Cleaned and organized raw sales data for clear reporting
+	•	Applied formulas like IF, SUMIFS, and VLOOKUP to calculate financial metrics
+	•	Answered specific business questions using logic-driven Excel models
 
 SQL Work:
+	•	Created tables and inserted sample data to simulate a database environment
+	•	Demonstrated how structured data in SQL supports and feeds Excel-based analysis
 
-Created tables and inserted sample data to simulate the database setup process
-
-Included to show my understanding of how Excel analysis connects to backend data sources
-
-Note:
-The primary analysis and reporting were done in Excel. The SQL file is included to demonstrate competency in setting up and organizing relational data.
+Note: The main analysis and reporting were done in Excel, while the SQL component is included to show my understanding of relational databases and how they connect to front-end tools like Excel.
 
