@@ -1,5 +1,4 @@
-E-Commerce Sales Analysis
-
+E-Commerce Sales Analysis:
 This project highlights my ability to analyze business data using both Excel and SQL. It focuses on key performance metrics like revenue, profit, and margins, and demonstrates how SQL can be used to structure and manage related datasets behind the scenes.
 
 Excel Analysis:
